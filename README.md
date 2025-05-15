@@ -115,7 +115,7 @@
     <h1>Welcome to My Heart</h1>
     <div class="heart" onclick="connectHeart()"></div>
     <p id="message"></p>
-    <audio id="loveSong" src="https://www.jiosaavn.com/song/die-with-a-smile/JgklWSZ6f0E"></audio>
+    <audio id="loveSong" src="https://m.youtube.com/watch?v=w28YjHjafy0"></audio>
   </div>
 
   <script>
