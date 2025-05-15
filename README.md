@@ -115,7 +115,7 @@
     <h1>Welcome to My Heart</h1>
     <div class="heart" onclick="connectHeart()"></div>
     <p id="message"></p>
-    <audio id="lovesong" src="http://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"></audio>
+    <audioid="lovesong" src="http://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"></audio>
   </div>
 
   <script>
