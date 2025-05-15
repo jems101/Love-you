@@ -115,7 +115,7 @@
     <h1>Welcome to My Heart</h1>
     <div class="heart" onclick="connectHeart()"></div>
     <p id="message"></p>
-    <audio id="loveSong" src="https://audio.com/kamil-chbeir/audio/die-with-a-smile-lady-gaga"></audio>
+    <audio id="loveSong" src="https://audio.com/kamil-chbeir/audio/die-with-a-smile-lady-gaga/play"></audio>
   </div>
 
   <script>
