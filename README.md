@@ -90,7 +90,7 @@ HAHA.   🤪
     <button class="heart-button" onclick="showMessage()">
       <div class="heart"></div>
     </button>
-    <div class="message" id="loveMessage">I Love You rashmi 🫶🏻🫶🏻</div>
+    <div class="message" id="loveMessage">I Love You  🫶🏻🫶🏻</div>
   </div>
 
   <script>
